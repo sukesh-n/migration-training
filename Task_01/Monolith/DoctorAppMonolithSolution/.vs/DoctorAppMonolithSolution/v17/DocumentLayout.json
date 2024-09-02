@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\doctorappmonolith.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\doctorappmonolith.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6259CED5-10AF-40BA-B10C-75B7E737DB2A}|docker-compose.dcproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6259CED5-10AF-40BA-B10C-75B7E737DB2A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6259CED5-10AF-40BA-B10C-75B7E737DB2A}|docker-compose.dcproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6259CED5-10AF-40BA-B10C-75B7E737DB2A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\service\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\service\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\doctorappmonolith.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\doctorappmonolith.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6259CED5-10AF-40BA-B10C-75B7E737DB2A}|docker-compose.dcproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6259CED5-10AF-40BA-B10C-75B7E737DB2A}|docker-compose.dcproj|solutionrelative:launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\interface\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\interface\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\doctorappmonolith\\interface\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{705DBD21-E65D-4F94-AF03-5FFE337C52C8}|DoctorAppMonolith\\DoctorAppMonolith.csproj|solutionrelative:doctorappmonolith\\interface\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6259CED5-10AF-40BA-B10C-75B7E737DB2A}|docker-compose.dcproj|c:\\users\\vc\\desktop\\migration\\task_01\\monolith\\doctorappmonolithsolution\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6259CED5-10AF-40BA-B10C-75B7E737DB2A}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Program.cs",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Program.cs",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Program.cs",
+              "RelativeToolTip": "DoctorAppMonolith\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:38:02.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Models\\Doctor.cs",
+              "RelativeToolTip": "DoctorAppMonolith\\Models\\Doctor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:17:30.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "DoctorAppMonolith\\Controllers\\AppointmentController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T17:22:29.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "DoctorAppMonolith\\Controllers\\DoctorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:56:41.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-01T15:52:15.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.dcproj",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T15:52:06.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoctorAppMonolith.csproj",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\DoctorAppMonolith.csproj",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\DoctorAppMonolith.csproj",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\DoctorAppMonolith.csproj",
+              "RelativeToolTip": "DoctorAppMonolith\\DoctorAppMonolith.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T15:52:23.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Models\\Appointment.cs",
+              "RelativeToolTip": "DoctorAppMonolith\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:21:31.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Service\\DoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Service\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Service\\DoctorService.cs",
+              "RelativeToolTip": "DoctorAppMonolith\\Service\\DoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:07:08.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Service\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Service\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Service\\AppointmentService.cs",
+              "RelativeToolTip": "DoctorAppMonolith\\Service\\AppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:31:26.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Dockerfile",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Dockerfile",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Dockerfile",
+              "RelativeToolTip": "DoctorAppMonolith\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T15:38:53.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Interface\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Interface\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Interface\\IDoctorService.cs",
+              "RelativeToolTip": "DoctorAppMonolith\\Interface\\IDoctorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:34:00.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\launchSettings.json",
+              "RelativeDocumentMoniker": "launchSettings.json",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\launchSettings.json",
+              "RelativeToolTip": "launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T17:31:16.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DoctorAppMonolith",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\DoctorAppMonolith.csproj",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\DoctorAppMonolith.csproj",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\DoctorAppMonolith.csproj",
+              "RelativeToolTip": "DoctorAppMonolith\\DoctorAppMonolith.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T17:32:48.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Interface\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "DoctorAppMonolith\\Interface\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\DoctorAppMonolith\\Interface\\IAppointmentService.cs",
+              "RelativeToolTip": "DoctorAppMonolith\\Interface\\IAppointmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:34:22.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\vc\\Desktop\\Migration\\Task_01\\Monolith\\DoctorAppMonolithSolution\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-01T15:52:18.409Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
